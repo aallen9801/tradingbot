@@ -1,4 +1,4 @@
-# tradingbot
+# Overview
 Presented is an automated trading bot I built in python using Flask and the Binance.US API. Also included is the custom trading algorithm I wrote myself using TradingView's PineScript. Enjoy!
 
 # Part 1: The Trading Algorithm
